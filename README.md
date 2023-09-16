@@ -16,3 +16,8 @@ HEAD -- это голова.
 %% описание схемы
 ```
 <и тут пустая строка!>
+
+git log
+git status
+git add
+git commit -m
